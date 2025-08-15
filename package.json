@@ -2,9 +2,9 @@
   "name": "calculadora-test-driven",
   "version": "1.0.0",
   "description": "Una calculadora basada en pruebas",
-  "main": "src/calculadora.py",
+  "main": "src/calculadora.js",
   "scripts": {
-    "start": "python src/calculadora.py"
+    "start": "node src/calculadora.js"
   },
   "dependencies": {},
   "devDependencies": {
