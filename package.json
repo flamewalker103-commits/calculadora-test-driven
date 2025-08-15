@@ -4,10 +4,11 @@
   "description": "Una calculadora basada en pruebas",
   "main": "src/calculadora.js",
   "scripts": {
-    "start": "node src/calculadora.js"
+    "start": "node src/calculadora.js",
+    "test": "jest"
   },
   "dependencies": {},
   "devDependencies": {
-    "jest": "^27.0.0"  
+    "jest": "^27.0.0"
   }
 }
