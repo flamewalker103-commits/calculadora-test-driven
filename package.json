@@ -1,6 +1,7 @@
 {
   "name": "calculadora-test-driven",
   "version": "1.0.0",
+  "description": "Una calculadora basada en pruebas",
   "main": "src/calculadora.py",
   "scripts": {
     "start": "python src/calculadora.py"
