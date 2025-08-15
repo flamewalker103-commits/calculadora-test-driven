@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/calculadora.py",
   "scripts": {
-    "start": "python -m src.calculadora"
+    "start": "python src/calculadora.py"
   },
   "dependencies": {},
   "devDependencies": {
