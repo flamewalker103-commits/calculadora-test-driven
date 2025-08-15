@@ -1,0 +1,12 @@
+{
+  "name": "calculadora-test-driven",
+  "version": "1.0.0",
+  "main": "src/calculadora.py",
+  "scripts": {
+    "start": "python src/calculadora.py"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "pytest": "^6.2.5"
+  }
+}
